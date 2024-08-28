@@ -14,8 +14,6 @@
         "ms-python.python"
     ],
     "postCreateCommand": "pip install -e ."
-}
-
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
